@@ -11,7 +11,7 @@ Este projeto foi desenvolvido com objetivo em ser um portal de uma agência de v
 Esse projeto foi desenvolvido com as seguintes tecnologias:
  
  
-#### Frontend
+#### FrontEnd
 * CSS
 * HTML
 
